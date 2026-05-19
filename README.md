@@ -1,22 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Puhupwas+🎯;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Puhupwas+🎯;+LLM+Evaluation+Expert+🤖;+AI+Code+Reviewer+✅" />
 </h1>
 
-<h3 align="center">A passionate Senior Frontend Engineer building high-performance, scalable web applications</h3>
+<h3 align="center">A passionate Senior Frontend Engineer & AI Rater – specializing in high‑performance web apps, LLM code evaluation, and repository‑level expertise auditing.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I'm currently working on **React, Next.js, Python, JavaScript, TypeScript, Docker, Postgresql Projects, AI, & LLM**
+ 🔭 I’m currently working on **React, Next.js, Python, TypeScript, AI/LLM evaluation, and benchmark dataset curation**
  
- 🌱 I'm currently learning **Advanced AI Integration**
+ 🌱 I’m currently learning **Advanced agentic trajectories & AI‑assisted debugging frameworks**
  
- ❓ Ask me about anything related **React, Performance Optimization, Frontend Architecture**
+ ❓ Ask me about **React performance, frontend architecture, or how to evaluate LLM‑generated code against behavioral taxonomies**
  
- ⚡ Fun fact: **I've optimized apps to load 80% faster**
- 
- </div>
+ ⚡ Fun fact: **I’ve helped reduce manual code review time by 6+ hours per project through structured LLM preference data collection**
+
+</div>
 
 <div align="center"> 
   <a href="mailto:puhupwasdeveloper@gmail.com">
@@ -30,15 +30,36 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
+
+<h2 align="center">⚒️ Languages‑Frameworks‑Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,graphql,jest,git,webpack,vite,nodejs,python,flask,mongodb,mysql,aws,vercel,netlify,figma,vscode" />
 </div>
 
 <br/>
+<hr/>
+
+<h2 align="center">🤖 AI Evaluation & Repository Expertise (Turing‑Ready) 🤖</h2>
+
+<div align="center">
+  
+I have **direct, verifiable experience** in the type of work Turing requires for the **Agentic Coding Evals Projects**:
+
+| Role / Project | What I did | Key Results |
+|----------------|------------|--------------|
+| **Expert Reviewer & AI Trainer** (Revelo / Anthropic) – PRWritr | Guided two LLMs to write production‑ready Python code, compared outputs, provided structured feedback | **94% first‑pass acceptance rate**, saved ~6 hours of manual review per project |
+| **TransScript** (Revelo) | Reviewed agentic LLM trajectories on real‑world coding tasks; evaluated correctness, code quality, efficiency | Scored across multiple quality axes; determined better‑performing model |
+| **Iac Labeling** (Revelo) | Audited IaC tasks (Terraform, AWS CDK, CloudFormation, Pulumi) for test quality & coverage using CLINE + OpenRouter | Approved only tasks scoring **8+/10**; fixed lower‑scoring ones to meet quality bar |
+
+**Repository expertise I can verify (GitHub‑auditable):**  
+`PyTorch`, `kubernetes-client`, `facebook/jscoheshift`, `vercel/ncc`, `npm/cli`, `microsoft/vscode-copilot-chat`, `mui/base-ui`, `PyGithub`, `autogluon`, `chatGPT-discord-bot` and more.
+
+> ✅ My GitHub profile is **ready for verification** – every claimed repository relationship (Owner / Maintainer / Core Contributor / Active / Past / Power User / Familiar) is backed by commits, PRs, or deep usage evidence.
+
+</div>
+
 <hr/>
 
 <div align="center">
@@ -94,8 +115,8 @@
 `Jun 2024 - Oct 2024`
 
 🚀 **Key Achievements:**
-- ✅ Led 4 key projects in large-scale financial ecosystem
-- ✅ Engineered Draft Editor with Auto-Save capabilities  
+- ✅ Led 4 key projects in large‑scale financial ecosystem
+- ✅ Engineered Draft Editor with Auto‑Save capabilities  
 - ✅ Built secure document generation modules
 - 📈 **Impact:** Improved workflow efficiency by 60%
 
@@ -114,7 +135,7 @@
 - ✅ Architected data analytics platform core
 - ✅ Implemented D3.js visualizations (Sankey, Tree charts)
 - ✅ Integrated AI Chat Bot (Natasha)
-- ⚡ **Performance:** Improved rendering by 70-80%
+- ⚡ **Performance:** Improved rendering by 70‑80%
 
 </div>
 
@@ -126,10 +147,10 @@
 
 | 🏆 Achievement | 📊 Impact | 🎯 Technology |
 |---------------|-----------|---------------|
-| **Performance Optimization** | ⬇️ 80% load time reduction | React, Webpack, Code-splitting |
+| **Performance Optimization** | ⬇️ 80% load time reduction | React, Webpack, Code‑splitting |
 | **Code Quality Improvement** | ✅ 70% quality boost | Jest, React Testing Library |
 | **Feature Acceleration** | 🚀 20% faster rollout | React, TypeScript, CI/CD |
-| **Team Leadership** | 👥 Recognized collaborator | Agile, Cross-functional teams |
+| **LLM Evaluation Accuracy** | 📊 94% acceptance rate | Python, Behavioral Taxonomy |
 
 </div>
 
@@ -160,7 +181,7 @@
     <a href="https://www.linkedin.com/in/puhupwas-bind-2166a3170/">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="45" height="45"/>
     </a>
-    <a href="mailto:puhupwasbind301@gmail.com">
+    <a href="mailto:puhupwasdeveloper@gmail.com">
       <img src="https://img.icons8.com/color/48/000000/gmail.png" width="45" height="45"/>
     </a>
     <a href="https://app.usebraintrust.com/talent/1614034/">
@@ -174,7 +195,7 @@
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
   
-  <h3>🎯 "Passionate about writing clean, maintainable code and improving developer experience." 🎯</h3>
+  <h3>🎯 "I build production‑grade systems – and I evaluate AI code like a human‑in‑the‑loop benchmark." 🎯</h3>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
