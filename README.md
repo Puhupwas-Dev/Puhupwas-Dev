@@ -159,7 +159,9 @@ I have direct, verifiable experience in evaluating LLM-generated code, benchmark
 <div align="center">
   <h2>🔥 Contribution Graph 🔥</h2>
   
-  [![Puhupwas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=puhupwas&theme=react-dark&area=true)](https://github.com/Puhupwas-Dev)
+  ![Puhupwas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=puhupwas&theme=react-dark&area=true&hide_border=true)
+  
+  ![Contributions](https://img.shields.io/badge/Contributions-62%20in%20last%20year-brightgreen?style=for-the-badge&logo=github)
 </div>
 
 <hr/>
