@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I'm currently working on **React & Next.js Projects**
+ 🔭 I'm currently working on **React, Next.js, Python, JavaScript, TypeScript, Docker, Postgresql Projects, AI, & LLM**
  
  🌱 I'm currently learning **Advanced AI Integration**
  
