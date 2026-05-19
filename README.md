@@ -156,12 +156,6 @@ I have direct, verifiable experience in evaluating LLM-generated code, benchmark
 
 <hr/>
 
-<div align="center">
-  <h2>🔥 Contribution Graph 🔥</h2>
-  
-  ![Puhupwas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=puhupwas&theme=react-dark&area=true&hide_border=true)
-</div>
-
 <hr/>
 
 <div align="center">
