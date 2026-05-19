@@ -41,11 +41,11 @@
 <br/>
 <hr/>
 
-<h2 align="center">🤖 AI Evaluation & Repository Expertise (Turing‑Ready) 🤖</h2>
+<h2 align="center">🤖 AI Evaluation & Repository Expertise 🤖</h2>
 
 <div align="center">
   
-I have **direct, verifiable experience** in the type of work Turing requires for the **Agentic Coding Evals Projects**:
+I have direct, verifiable experience in evaluating LLM-generated code, benchmarking model outputs, and curating human preference data for production‑ready systems.
 
 | Role / Project | What I did | Key Results |
 |----------------|------------|--------------|
