@@ -43,10 +43,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  
-  ![Snake animation](https://github.com/puhupwas/puhupwas/blob/output/github-contribution-grid-snake.svg)
-  
+  <br>  
 </div>
 
 <hr/>
