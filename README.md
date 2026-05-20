@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Puhupwas+🎯;+LLM+Evaluation+Expert+🤖;+AI+Code+Reviewer+✅" />
 </h1>
 
-<h3 align="center">A passionate Senior Frontend Engineer & AI Rater – specializing in high‑performance web apps, LLM code evaluation, and repository‑level expertise auditing.</h3>
+<h3 align="center">A passionate Senior Software Engineer & AI Rater – specializing in high‑performance web apps, LLM code evaluation, and repository‑level expertise auditing.</h3>
 
 <br/>
 
