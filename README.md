@@ -49,12 +49,12 @@ I have direct, verifiable experience in evaluating LLM-generated code, benchmark
 
 | Role / Project | What I did | Key Results |
 |----------------|------------|--------------|
-| **Expert Reviewer & AI Trainer** (Revelo / Anthropic) – PRWriter | Guided two LLMs to write production‑ready Python code, compared outputs, provided structured feedback | **94% first‑pass acceptance rate** across 38 projects / 170 tasks, saved ~6 hours of manual review per project |
-| **Behavior Data** (Revelo) | Designed complex system architecture tasks (file processing, async job queues); facilitated 10+ engineering discussions between competing LLM agents | Evaluated responses across **7 quality axes** using a behavioral code taxonomy with file‑line precision |
-| **TranScript** (Revelo) | Reviewed agentic LLM trajectories on real‑world coding tasks; evaluated correctness, code quality, efficiency | Scored across multiple quality axes; determined better‑performing model |
-| **Iac Labeling** (Revelo) | Audited IaC tasks (Terraform, AWS CDK, CloudFormation, Pulumi) for test quality & coverage using CLINE + OpenRouter | Approved only tasks scoring **8+/10**; fixed lower‑scoring ones to meet quality bar |
-| **Terminal Bench 2.0** (Revelo) | Built a broken multi‑process Linux auditor (6+ daemons, YAML policy, HTTP API, Prometheus) with layered runtime failures | 46+ Claude Opus 4.7 episodes without success (>20 requirement) with 100% test coverage; dockerized verifiers using Harbor |
-| **Supernova Full‑Stack Vulnerabilities Audit** (Revelo) | Evaluated 40+ vulnerability annotations by analyzing SARIF reports and EventHive source code; traced code paths and reachability | Identified critical errors: hardcoded secrets marked False, contradictory XSS verdicts, missed duplicate linkages across teams |
+| **Expert Reviewer & AI Trainer** – PRWriter | Guided two LLMs to write production‑ready Python code, compared outputs, provided structured feedback | **94% first‑pass acceptance rate** across 38 projects / 170 tasks, saved ~6 hours of manual review per project |
+| **Behavior Data** | Designed complex system architecture tasks (file processing, async job queues); facilitated 10+ engineering discussions between competing LLM agents | Evaluated responses across **7 quality axes** using a behavioral code taxonomy with file‑line precision |
+| **TranScript** | Reviewed agentic LLM trajectories on real‑world coding tasks; evaluated correctness, code quality, efficiency | Scored across multiple quality axes; determined better‑performing model |
+| **IaC Labeling** | Audited IaC tasks (Terraform, AWS CDK, CloudFormation, Pulumi) for test quality & coverage using CLINE + OpenRouter | Approved only tasks scoring **8+/10**; fixed lower‑scoring ones to meet quality bar |
+| **Terminal Bench 2.0** | Built a broken multi‑process Linux auditor (6+ daemons, YAML policy, HTTP API, Prometheus) with layered runtime failures | Achieved 100% test coverage; dockerized verifiers using Harbor |
+| **Supernova Full‑Stack Vulnerabilities Audit** | Evaluated 40+ vulnerability annotations by analyzing SARIF reports and EventHive source code; traced code paths and reachability | Identified critical errors: hardcoded secrets marked False, contradictory XSS verdicts, missed duplicate linkages across teams |
 
 **Repository expertise I can verify (GitHub‑auditable):**  
 `PyTorch`, `kubernetes-client`, `facebook/jscodeshift`, `vercel/ncc`, `npm/cli`, `microsoft/vscode-copilot-chat`, `mui/base-ui`, `PyGithub`, `autogluon`, `chatGPT-discord-bot`, `Microsoft/Sammo`, `pyinfra-dev`, `gabrielbull/react-desktop`, `vscode-icons`, `actions/github-script`, `extension-js` and more.
@@ -121,7 +121,7 @@ I have direct, verifiable experience in evaluating LLM-generated code, benchmark
 
 <div align="center">
 
-### 🤖 **Revelo (Anthropic PBC)** | *AI Trainer & Senior FullStack Software Engineer & Expert Reviewer*
+### 🤖 **AI Trainer & Senior FullStack Software Engineer & Expert Reviewer** (Confidential)
 `Dec 2025 - Jun 2026`
 
 🚀 **Key Achievements:**
@@ -179,7 +179,7 @@ I have direct, verifiable experience in evaluating LLM-generated code, benchmark
 | **Code Quality Improvement** | ✅ 30% quality boost (Gemini Code LLM) | Jest, React Testing Library |
 | **Feature Acceleration** | 🚀 70% faster NFT rollout | React, TypeScript, CI/CD |
 | **LLM Evaluation Accuracy** | 📊 94% acceptance rate | Python, Behavioral Taxonomy |
-| **Benchmark Difficulty** | 🧠 46+ Opus 4.7 episodes without success | Terminal Bench 2.0, Harbor |
+| **Benchmark Difficulty** | 🧠 Designed to test SOTA models | Terminal Bench 2.0, Harbor |
 
 </div>
 
@@ -225,7 +225,7 @@ React.js Advanced | Scrum Master | Stencil.js Component Development | HTML/CSS/F
     </a>
   </p>
 
-  📧 puhupwasdeveloper@gmail.com &nbsp;|&nbsp; puhupwasbind301@gmail.com &nbsp;|&nbsp; 📱 +91-8510062893
+  📧 puhupwasdeveloper@gmail.com &nbsp;|&nbsp; puhupwasbind301@gmail.com
   
   **📍 New Delhi, India**
   
