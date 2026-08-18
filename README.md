@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **React, Next.js, Python, TypeScript, React Native, AI/LLM evaluation, and benchmark dataset curation**
+ 🔭 I’m currently working on **React, Next.js, Python, TypeScript, React Native, MySQL, PostgreSQL, MongoDB, AI/LLM evaluation, and benchmark dataset curation**
  
  🌱 I’m currently learning **Advanced agentic trajectories & AI‑assisted debugging frameworks**
  
