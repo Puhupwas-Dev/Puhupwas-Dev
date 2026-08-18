@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=550&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Puhupwas+🎯;+Senior+Full+Stack+SWE+Engineer+💻;+Senior+Frontend+SWE+Engineer+🎨;+AI+Trainer+🤖;+LLM+Evaluation+Expert+🎓;+Expert+AI+Code+Reviewer+✅" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=570&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Puhupwas+🎯;+Senior+Full+Stack+SWE+Engineer+💻;+Senior+Frontend+SWE+Engineer+🎨;+AI+Trainer+🤖;+LLM+Evaluation+Expert+🎓;+Expert+AI+Code+Reviewer+✅" />
 </h1>
 
 <h3 align="center">A passionate Senior Fullstack Software Engineer, AI Trainer & Expert Reviewer – specializing in high‑performance web apps, LLM code evaluation, and repository‑level expertise auditing.</h3>
