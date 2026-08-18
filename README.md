@@ -139,7 +139,7 @@ I have direct, verifiable experience in evaluating LLM-generated code, benchmark
 - ✅ Google Gemini Code LLM: Improved code quality by 30% across 70+ tasks
 - 📈 **Impact:** Comprehensive Jest testing strategy across microservices
 
-### 📊 **Okoders Pvt Ltd (Builder.ai)** | *Senior Software Engineer*
+### 📊 **Okoders Pvt Ltd (Builder.ai)** | *Senior Full Stack Software Engineer*
 `Mar 2023 - Mar 2024`
 
 📈 **Key Results:**
