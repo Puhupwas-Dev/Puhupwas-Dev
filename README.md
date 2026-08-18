@@ -225,7 +225,7 @@ React.js Advanced | Scrum Master | Stencil.js Component Development | HTML/CSS/F
     </a>
   </p>
 
-  📧 puhupwasdeveloper@gmail.com &nbsp;|&nbsp; puhupwasbind301@gmail.com &nbsp;|&nbsp; 📱 +91-8510062893
+  📧 puhupwasdeveloper@gmail.com &nbsp;|&nbsp; puhupwasbind301@gmail.com
   
   **📍 New Delhi, India**
   
