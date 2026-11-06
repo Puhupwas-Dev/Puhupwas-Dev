@@ -45,7 +45,7 @@
 
 <div align="center">
   
-I have direct, verifiable experience in evaluating LLM-generated code, benchmarking model outputs, and curating human preference data for production‑ready systems.
+My professional experience includes evaluating LLM-generated code, benchmarking model outputs, and curating human preference data for production‑ready systems. The experience and results below are self-reported professional highlights; public open-source contribution evidence is linked separately.
 
 | Role / Project | What I did | Key Results |
 |----------------|------------|--------------|
@@ -56,19 +56,26 @@ I have direct, verifiable experience in evaluating LLM-generated code, benchmark
 | **Terminal Bench 2.0** | Built a broken multi‑process Linux auditor (6+ daemons, YAML policy, HTTP API, Prometheus) with layered runtime failures | Achieved 100% test coverage; dockerized verifiers using Harbor |
 | **Supernova Full‑Stack Vulnerabilities Audit** | Evaluated 40+ vulnerability annotations by analyzing SARIF reports and EventHive source code; traced code paths and reachability | Identified critical errors: hardcoded secrets marked False, contradictory XSS verdicts, missed duplicate linkages across teams |
 
-**Repository expertise I can verify (GitHub‑auditable):**  
+**Repositories studied or used in professional evaluation and development:**  
 `PyTorch`, `kubernetes-client`, `facebook/jscodeshift`, `vercel/ncc`, `npm/cli`, `microsoft/vscode-copilot-chat`, `mui/base-ui`, `PyGithub`, `autogluon`, `chatGPT-discord-bot`, `Microsoft/Sammo`, `pyinfra-dev`, `gabrielbull/react-desktop`, `vscode-icons`, `actions/github-script`, `extension-js` and more.
 
-> ✅ My GitHub profile is **ready for verification** – every claimed repository relationship (Owner / Maintainer / Core Contributor / Active / Past / Power User / Familiar) is backed by commits, PRs, or deep usage evidence.
+> Familiarity with or evaluation of a repository does not establish an upstream maintainer or core contributor role. See the [open-source evidence and contribution plan](docs/OPEN_SOURCE.md) for public sources and how impact is measured.
 
 </div>
 
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>  
+  <h2>🐍 Open-Source Work 🐍</h2>
 </div>
+
+- [Public repositories](https://github.com/Puhupwas-Dev?tab=repositories&type=source): projects and reference material hosted under this account. Each project retains its own authorship and license context.
+- [amrutam_app](https://github.com/Puhupwas-Dev/amrutam_app): a React, TypeScript, and Vite application with a [demo linked by the project](https://amrutamapp.vercel.app/).
+- [agentic-benchmarks](https://github.com/Puhupwas-Dev/agentic-benchmarks): a collection of references for agent evaluation and benchmarking.
+- [Merged upstream pull requests](https://github.com/search?q=is%3Apr+is%3Amerged+author%3APuhupwas-Dev+-user%3APuhupwas-Dev&type=pullrequests): a live search for contributions outside this account.
+- [Open-source evidence and contribution plan](docs/OPEN_SOURCE.md): dated findings, sources, limitations, and next steps.
+
+Corrections and source links are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 <hr/>
 
@@ -77,13 +84,13 @@ I have direct, verifiable experience in evaluating LLM-generated code, benchmark
 <br/>
 <div align="center">
   <div align="center">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=puhupwas&show_icons=true&theme=radical" />
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=puhupwas&theme=radical" />
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Puhupwas-Dev&show_icons=true&theme=radical" />
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Puhupwas-Dev&theme=radical" />
   </div>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puhupwas&show_icons=true&locale=en&layout=compact&theme=radical" alt="puhupwas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Puhupwas-Dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub language statistics for Puhupwas-Dev" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=puhupwas&theme=radical&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Puhupwas-Dev&theme=radical&row=2&column=4" />
 </div>
 
 <hr/>
@@ -202,9 +209,9 @@ React.js Advanced | Scrum Master | Stencil.js Component Development | HTML/CSS/F
 <hr/>
 
 <div align="center">
-  <h2>🌐 Visitors Count 🌐</h2>
+  <h2>🌐 Public Activity 🌐</h2>
   
-  <img src="https://profile-counter.glitch.me/puhupwas/count.svg" />
+  <p>See <a href="https://github.com/Puhupwas-Dev?tab=repositories">public repository activity</a>. Visitor counters are not used as adoption evidence.</p>
   
 </div>
 
